@@ -20,7 +20,7 @@ echo '  ██║     ██║██╔██╗ ██║██║   ██║
 echo '  ██║     ██║██║╚██╗██║██║   ██║ ██╔██╗ '
 echo '  ███████╗██║██║ ╚████║╚██████╔╝██╔╝ ██╗'
 echo '  ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝'
-echo -e "${R}${B}       Debian / Kali Full Update – October 17, 2026${R}"
+echo -e "${R}${B}       Full Update by webXOS – October 17, 2026${R}"
 echo
 
 # --- Hardware detection ---------------------------------------------------
