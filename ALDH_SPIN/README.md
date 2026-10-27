@@ -1,8 +1,6 @@
 
 # ALDH SPIN – Automated Linux Diagnosis Harness (Agent Spin Edition)
 
-# Usage: bash aldh_spin.sh [max_cycles]
-
 ## Continuously diagnoses your Debian system using Ollama and outputs a JSON
  graph to ~/Desktop/sys_diagnosis_graph.json.
 
